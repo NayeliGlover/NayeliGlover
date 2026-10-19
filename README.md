@@ -31,6 +31,7 @@ A responsive, social media photo-sharing web application built for scenic outdoo
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/nayeli-glover-89b120177](https://linkedin.com) 
+- **LinkedIn:** [linkedin.com/in/nayeli-glover-89b120177](https://linkedin.com)
 - **GitHub:** [github.com/NayeliGlover](https://github.com/NayeliGlover)
+
 
